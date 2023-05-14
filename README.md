@@ -1,7 +1,7 @@
 ### Oii! Eu sou Maria Andreza
 
 <!--
-**mariaandreza/mariaandreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mariaandrezacs/mariaandrezacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/mariaandreza">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariaandrezacs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/mariaandrezacs">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariaandrezacs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaandrezacs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
