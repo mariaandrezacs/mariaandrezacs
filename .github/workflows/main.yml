@@ -3,8 +3,7 @@ name: Generate Datas
 on:
   schedule:
     # Executa duas vezes por dia
-  - cron: "0 08 * * *"
-  - cron: "0 18 * * *"
+  - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
