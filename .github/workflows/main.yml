@@ -2,8 +2,10 @@ name: Generate Datas
 
 on:
   schedule:
-    # Executa duas vezes por dia
     - cron: "0 0 * * *"
+    - cron: "0 10 * * *"
+    - cron: "0 16 * * *"
+
   workflow_dispatch:
 
 jobs:
