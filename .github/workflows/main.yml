@@ -2,9 +2,9 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-    # - cron: "0 10 * * *"
-    # - cron: "0 16 * * *"
+    - cron: "0 0 * * *"  # Executa à meia-noite (UTC)
+    - cron: "0 10 * * *" # Executa às 10h (UTC)
+    - cron: "0 16 * * *" # Executa às 16h (UTC)
 
   workflow_dispatch:
 
