@@ -12,6 +12,8 @@
     <img align="center" alt="Andreza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Andreza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Andreza-Django" height="30" width="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
+    <img align="center" alt="Andreza-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+    
 </div>
 <br>
 <div>
