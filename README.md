@@ -5,8 +5,8 @@
     <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariaandrezacs&show_icons=true&theme=react"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaandrezacs&layout=compact&langs_count=7&theme=react"/> -->
 
- [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mariaandrezacs&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaandrezacs&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mariaandrezacs&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaandrezacs&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
  
 
 </div>
