@@ -1,6 +1,6 @@
 ## Olá! Eu sou Maria Andreza C Santos 👋
 
-Sou **Software Developer com foco em Backend**, atuando no desenvolvimento de sistemas de gerenciamento e aplicações orientadas à organização e clareza de domínio.
+Sou **Software Developer**, atuando no desenvolvimento de sistemas de gerenciamento e aplicações orientadas à organização e clareza de domínio.
 
 Tenho interesse especial em **arquitetura de software**, separação de responsabilidades e construção de sistemas que sejam **simples de entender, manter e evoluir**.
 
