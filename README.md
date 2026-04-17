@@ -80,7 +80,7 @@ I'm always open to discussing technology, architecture challenges, or opportunit
   <a href="https://discord.gg/andreza#3419" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://instagram.com/mariaandrezacs" target="_blank">
+  <a href="https://instagram.com/andrezacsw" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
