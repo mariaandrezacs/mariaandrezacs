@@ -1,39 +1,96 @@
-## Olá! Eu sou Maria Andreza C Santos 👋
+# Hi there! I'm Maria Andreza C Santos! 
 
-Sou **Software Developer**, atuando no desenvolvimento de sistemas de gerenciamento e aplicações orientadas à organização e clareza de domínio.
+## Full Stack Software Developer
 
-Tenho interesse especial em **arquitetura de software**, separação de responsabilidades e construção de sistemas que sejam **simples de entender, manter e evoluir**.
+![Profile Views](https://komarev.com/ghpvc/?username=mariaandrezacs&style=for-the-badge&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/mariaandrezacs?style=for-the-badge&logo=github&labelColor=0d1117&color=blueviolet)
+
+> Passionate about building end-to-end web applications with clean architecture and domain-driven design principles. I specialize in creating systems that are simple to understand, maintain, and evolve, from frontend interfaces to backend APIs.
 
 ---
 
+### About Me
+
+- **Full Stack Developer** with expertise in building complete web applications
+- **Domain-Driven Design** enthusiast focused on business value and technical excellence
+- **Clean Code** advocate - I believe in writing code that humans can understand
+- **Continuous Learner** - Always exploring new technologies and best practices
+- **Problem Solver** - Transforming complex business requirements into elegant technical solutions
+
+---
+
+### Technical Expertise
+
+#### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Architecture & Design**
+- **Microservices Architecture**
+- **Domain-Driven Design (DDD)**
+- **Clean Architecture**
+- **SOLID Principles**
+- **Design Patterns**
+- **API Design & RESTful Services**
+
+#### **Development Skills & Tools**
+- **Agile & Scrum Methodologies**
+- **Version Control (Git)**
+- **API Development & Integration**
+- **Database Design & Management**
+- **Testing & Debugging**
+- **Performance Optimization**
+
+---
+
+### GitHub Analytics
+
 <div align="center">
-<a href="https://github.com/mariaandrezacs">
-    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariaandrezacs&show_icons=true&theme=react"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaandrezacs&layout=compact&langs_count=7&theme=react"/> -->
-
-  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mariaandrezacs&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaandrezacs&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
- 
-
-</div>
-    
-<div style="display: inline_block"><br>
-    <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="django" height="30" width="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
-    <img align="center" alt="flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-    <img align="center" alt="drf" height="30" width="40" src="https://www.django-rest-framework.org/img/logo.png">
-    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <!-- <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> -->
-</div>
-<br>
-<div>
-    <a target="_blank" href="https://www.linkedin.com/in/mariaandrezacs"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a target="_blank" href="https://instagram.com/mariaandrezacs" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a target="_blank" href="https://discord.gg/andreza#3419" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a target="_blank" href="mailto:mariaandrezacs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/mariaandrezacs">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaandrezacs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaandrezacs&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
- ![Snake animation](https://github.com/mariaandrezacs/mariaandrezacs/blob/main/dist/github-snake-light.svg)
+<div align="center">
+  <a href="https://github.com/mariaandrezacs">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaandrezacs&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### Let's Connect!
+
+I'm always open to discussing technology, architecture challenges, or opportunities to collaborate on exciting projects.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mariaandrezacs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mariaandrezacs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.gg/andreza#3419" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://instagram.com/mariaandrezacs" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+---
+
+### Activity Graph
+
+![Snake animation](https://github.com/mariaandrezacs/mariaandrezacs/blob/main/dist/github-snake-light.svg)
+
+---
+
+*"Good architecture is the foundation of scalable, maintainable software. Clean code is the language that makes it understandable."*
