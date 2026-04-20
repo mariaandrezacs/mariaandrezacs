@@ -2,9 +2,6 @@
 
 ## Full Stack Software Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=mariaandrezacs&style=for-the-badge&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/mariaandrezacs?style=for-the-badge&logo=github&labelColor=0d1117&color=blueviolet)
-
 > Passionate about building end-to-end web applications with clean architecture and domain-driven design principles. I specialize in creating systems that are simple to understand, maintain, and evolve, from frontend interfaces to backend APIs.
 
 ---
