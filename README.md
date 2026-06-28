@@ -8,7 +8,7 @@
 
 ### About Me
 
-- **Full Stack Developer** - with expertise in building complete web applications
+- **Full Stack Software Developer** specializing in scalable web applications.
 - **Domain-Driven Design** - enthusiast focused on business value and technical excellence
 - **Clean Code** advocate - I believe in writing code that humans can understand
 - **Continuous Learner** - Always exploring new technologies and best practices
