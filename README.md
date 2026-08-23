@@ -35,14 +35,14 @@
 
 <div align="center">
   <a href="https://github.com/mariaandrezacs">
-    <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariaandrezacs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-    <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariaandrezacs&layout=compact&langs_count=7&theme=dracula"/> -->
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=mariaandrezacs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mariaandrezacs&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/mariaandrezacs">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaandrezacs&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaandrezacs&theme=dracula"/>
   </a>
 </div>
 
