@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://github.com/mariaandrezacs">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=mariaandrezacs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=mariaandrezacs&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
     <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mariaandrezacs&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
