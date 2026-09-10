@@ -5,7 +5,8 @@ on:
     # - cron: "0 0 * * *"  # Executa à meia-noite (UTC)
     # - cron: "0 10 * * *" # Executa às 10h (UTC)
     # - cron: "0 16 * * *" # Executa às 16h (UTC)
-    - cron: "0 */4 * * *"
+    # - cron: "0 */4 * * *" # Executa a cada 4h (UTC)
+    - cron: "0 */2 * * *" # Executa a cada 2h (UTC)
 
   workflow_dispatch:
 
