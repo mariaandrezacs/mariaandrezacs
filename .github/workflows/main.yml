@@ -29,6 +29,18 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-light.svg?palette=github
 
+      # Atualiza o cache do GitHub Stats
+      - name: Update GitHub Stats cache 
+        shell: bash 
+        run: | 
+          VERSION=$(date -u +"%Y%m%d%H%M%S") 
+          
+          sed -i -E \ 
+            "s/(&v=)[^&\"]*/\1${VERSION}/g" \ 
+            README.md 
+            
+          echo "GitHub Stats cache version: ${VERSION}"
+
       # Commit e push da animação gerada
       - name: Commit and Push changes
         run: |
